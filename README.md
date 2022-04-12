@@ -1,8 +1,8 @@
 # Chip-8 with Dear ImGUI
 
-<img src="https://github.com/kaishuu0123/chip-8-with-dear-imgui/raw/main/screenshots/default.png" alt="Default" title="default" style="max-width: 50%;">
+<img src="https://github.com/kaishuu0123/chip-8-with-dear-imgui/raw/main/screenshots/default.png" width="50%" alt="Default" title="default">
 
-<img src="https://github.com/kaishuu0123/chip-8-with-dear-imgui/raw/main/screenshots/BRIX.png" alt="BRIX" title="BRIX" style="max-width: 50%;">
+<img src="https://github.com/kaishuu0123/chip-8-with-dear-imgui/raw/main/screenshots/BRIX.png" width="50%" alt="BRIX" title="BRIX">
 
 ## Dependencies
 
